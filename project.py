@@ -55,5 +55,6 @@ school.pass_students()
 school.fail_students()
 school.highest_marks()
 school.average_marks()
+print("Discipline")
 
 
